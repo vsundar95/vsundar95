@@ -8,6 +8,7 @@
 ### Certifications
 <img src="https://github.com/vsundar95/vsundar95/blob/README/CertBadges/AWS-CloudPractitioner-2020.png" width="150px" height="150px" />
 <img src="https://github.com/vsundar95/vsundar95/blob/README/CertBadges/comptia-security-ce-certification.png" />
+
 ### Languages and Tools
 Red Hat Enterprise Linux, C, C++, Ada, Rust, Python, Bash, Docker, KRATOS Compass
 
