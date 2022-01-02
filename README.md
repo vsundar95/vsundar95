@@ -6,8 +6,7 @@
 #### :school_satchel: Florida Tech 
 - :scroll: M.S. in Information Assurance and Cybersecurity
 ### Certifications
-![AWS Certified Cloud Practitioner](CertBadges/AWS-CloudPractitioner-2020.png){:height="50%" width="50%"}
-<img src="https://github.com/vsundar95/vsundar95/blob/README/CertBadges/AWS-CloudPractitioner-2020.png" width="50px" height="50px" />
+<img src="https://github.com/vsundar95/vsundar95/blob/README/CertBadges/AWS-CloudPractitioner-2020.png" width="150px" height="150px" />
 :cd: Red Hat Enterprise Linux
 :computer: C, C++, Ada, Rust, Python, Bash
 
