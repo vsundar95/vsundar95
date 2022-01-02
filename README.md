@@ -7,7 +7,7 @@
 - :scroll: M.S. in Information Assurance and Cybersecurity
 ### Certifications
 ![AWS Certified Cloud Practitioner](CertBadges/AWS-CloudPractitioner-2020.png){:height="50%" width="50%"}
-
+[[CertBadges/AWS-CloudPractitioner-2020.png | width=50px | alt=AWS_CCP]]
 
 :cd: Red Hat Enterprise Linux
 :computer: C, C++, Ada, Rust, Python, Bash
