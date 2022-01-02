@@ -6,7 +6,7 @@
 #### :school_satchel: Florida Tech 
 - :scroll: M.S. in Information Assurance and Cybersecurity
 ### Certifications
-![AWS Certified Cloud Practitioner][width="50px"](CertBadges/AWS-CloudPractitioner-2020.png)
+![AWS Certified Cloud Practitioner](CertBadges/AWS-CloudPractitioner-2020.png)
 
 :cd: Red Hat Enterprise Linux
 :computer: C, C++, Ada, Rust, Python, Bash
