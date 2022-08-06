@@ -1,5 +1,7 @@
 ### :smiley: :wave: Hello!! My name is Vinny Sundar. 
+
 ## I am a Developer, Gracie Jiu-Jitsu Blue Belt Holder, Machida Karate Practitioner, Kick-boxer, Dale Carnegie Black Belt, Avid Video Game Player, and Collector of Fine Figures.
+
 ### School
 #### :school_satchel: University of Florida 
 - :scroll: B.S. in Mathematics w. Minor in Computer Science
@@ -11,4 +13,5 @@
 
 ### Languages and Tools
 Red Hat Enterprise Linux, C, C++, Rust, Python, Bash, and Docker 
+
 
