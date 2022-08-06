@@ -1,5 +1,5 @@
 ### :smiley: :wave: Hello!! My name is Vinny Sundar. 
-## I am a Developer, Gracie Jiu-Jitsu Blue Belt Holder, Kickboxer, Dale Carnegie Black Belt, Avid Video Game Player, and Collector of Fine Figures.
+## I am a Developer, Gracie Jiu-Jitsu Blue Belt Holder, Machida Karate Practitioner, Kick-boxer, Dale Carnegie Black Belt, Avid Video Game Player, and Collector of Fine Figures.
 ### School
 #### :school_satchel: University of Florida 
 - :scroll: B.S. in Mathematics w. Minor in Computer Science
@@ -10,5 +10,5 @@
 <img src="https://github.com/vsundar95/vsundar95/blob/README/CertBadges/comptia-security-ce-certification.png" />
 
 ### Languages and Tools
-Red Hat Enterprise Linux, C, C++, Rust, Python, Bash, Docker, KRATOS Compass
+Red Hat Enterprise Linux, C, C++, Rust, Python, Bash, and Docker 
 
