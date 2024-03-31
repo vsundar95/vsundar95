@@ -1,6 +1,6 @@
 ### :smiley: :wave: Hello!! My name is Vinny Sundar. 
 
-## I am a Developer, Gracie Jiu-Jitsu Practitioner, Machida Karate Practitioner, Kick-boxer, Dale Carnegie Black Belt, Avid Video Game Player, and Collector of Fine Figures.
+## I am a Developer, Gracie Jiu-Jitsu Practitioner, Machida Karate Practitioner, Dale Carnegie Black Belt, Avid Video Game Player, and Collector of Fine Figures.
 
 ### School
 #### :school_satchel: University of Florida 
